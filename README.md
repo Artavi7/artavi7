@@ -5,7 +5,7 @@ Actualmente trabajo en el Departamento de Infomática del Gobierno Regional de C
 
 Me he desarrollado principalmente como desarrollador y he trabajado con diferentes lenguajes de programación. 
 
-Participo activamente en el Ministerio The Way International y junto con mi esposa tenemos el privilegio de coordinar una comunión en nuestro hogar.
+Seguidor de Jesucristo y participo activamente en el Ministerio The Way International y junto con mi esposa tenemos el privilegio de coordinar una comunión en nuestro hogar.
 
 
 <!--
