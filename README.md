@@ -1,5 +1,6 @@
-### Hi there 👋
+# Hola mi nombre es Ariel Tapia Videla 👋
 
+Soy ingeniero de software profesional desde hace más de doce años.
 <!--
 **Artavi7/artavi7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
